@@ -1,0 +1,3 @@
+#rtcwake -m mem -s 60
+// или
+#rtcwake -m mem -t [unix-timestamp]
